@@ -1,11 +1,11 @@
 ### Hey there, I'm Sıla 👋
 
-Mobile & Software Engineer focused on crafting clean, high-performance applications with **Flutter**, modern **Backend APIs**, and **Applied AI**.
+Software Engineer building full-stack web platforms, applied AI & machine learning systems, and high-performance mobile applications.
 
 <br/>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,ts,js,cpp,nestjs,react,nextjs,fastapi,postgres,sqlite,docker,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,flutter,dart,ts,js,cpp,nestjs,nextjs,react,fastapi,postgres,sqlite,docker,git" alt="Tech Stack" />
 </p>
 
 <br/>
