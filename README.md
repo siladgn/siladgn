@@ -5,7 +5,13 @@ Software Engineer building full-stack web platforms, applied AI & machine learni
 <br/>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flutter,dart,ts,js,cpp,nestjs,nextjs,react,fastapi,postgres,sqlite,docker,git" alt="Tech Stack" />
+  <b>Languages:</b><br/>
+  <img src="https://skillicons.dev/icons?i=python,dart,ts,js,cpp,c,java,cs,html,css" alt="Languages" />
+</p>
+
+<p align="left">
+  <b>Frameworks & Tools:</b><br/>
+  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nestjs,fastapi,flask,postgres,sqlite,docker,git,linux" alt="Technologies" />
 </p>
 
 <br/>
