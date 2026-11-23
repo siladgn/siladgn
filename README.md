@@ -1,23 +1,29 @@
 ### Hey there, I'm Sıla 👋
 
-Software Engineer building full-stack web platforms, applied AI & machine learning systems, and high-performance mobile applications.
+**Computer Engineering Student** @ Adnan Menderes University | **Software Engineer**  
+Ex-Intern @ **Nokia** (IP Network Technologies) • **Siber Vatan** Cybersecurity Specialist
+
+Building full-stack web platforms, applied AI & machine learning systems, and cross-platform mobile apps.
 
 <br/>
 
 <p align="left">
-  <b>Languages:</b><br/>
-  <img src="https://skillicons.dev/icons?i=python,dart,ts,js,cpp,c,java,cs,html,css" alt="Languages" />
+  <b>Programming Languages:</b><br/>
+  <img src="https://skillicons.dev/icons?i=python,dart,java,cpp,c,cs,ts,js,html,css,mysql" alt="Languages" />
 </p>
 
 <p align="left">
-  <b>Frameworks & Tools:</b><br/>
-  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nestjs,fastapi,flask,postgres,sqlite,docker,git,linux" alt="Technologies" />
+  <b>Frameworks, Tools & Platforms:</b><br/>
+  <img src="https://skillicons.dev/icons?i=flutter,unity,arduino,kali,react,nextjs,nestjs,fastapi,flask,docker,git,linux" alt="Technologies" />
 </p>
 
 <br/>
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/s%C4%B1la-do%C4%9Fan-12b7b5283" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sıla_Doğan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="mailto:dogansila58@gmail.com">
-    <img src="https://img.shields.io/badge/Get_in_touch-dogansila58%40gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-dogansila58%40gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
